@@ -1,0 +1,16 @@
+{
+  "exact_match_percentage": 3.79,
+  "avg_edit_distance": 14.13,
+  "std_edit_distance": 10.07,
+  "avg_character_error_rate": 29.11,
+  "avg_word_error_rate": 43.12,
+  "total_samples": 449,
+  "correct_samples": 17,
+  "inference_time_seconds": 8.49,
+  "avg_latency_ms": 18.92,
+  "model_params": 556291456,
+  "model_size_mb": 2122.08,
+  "device": "cuda",
+  "num_failures": 432,
+  "num_over_corrections": 8
+}

@@ -1,0 +1,25 @@
+# Hindi Medical Correction Engine - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core ML frameworks
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+accelerate>=0.24.0
+
+# Tokenization
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Evaluation metrics
+editdistance>=0.6.2
+
+# Progress bars
+tqdm>=4.65.0
+
+# Optional: For faster tokenization
+tiktoken>=0.5.0
